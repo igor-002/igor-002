@@ -1,4 +1,4 @@
-<div>
+<!-- <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=igor-002&theme=dark" />
   </a>
@@ -16,11 +16,13 @@
 <img src="https://img.shields.io/badge/Figma-4E5157?style=for-the-badge&logo=figma&logoColor=figma" />
 
 </div>
+-->
+
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/igor soares da silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="igor soares da silva" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/igor-soares-da-silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="igor soares da silva" height="30" width="40" /></a>
 <a href="https://www.behance.net/igorsoares38" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="igorsoares38" height="30" width="40" /></a>
 </p>
 
